@@ -52,7 +52,7 @@ A **Flask proxy server** runs on a PC on the same Wi-Fi network. The Lumia talks
 
 | Proxy Homepage | Wikipedia Loaded |
 |----------------|------------------|
-| ![Proxy Homepage](proxy.jpg) | ![Wikipedia](wiki.png) |
+| ![Proxy Homepage](proxy.png) | ![Wikipedia](wiki.jpg) |
 
 ## Credits
 
